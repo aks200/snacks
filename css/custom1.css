@@ -1,0 +1,64 @@
+body{
+    background-image: url("/images/back2.jpg");  
+    background-attachment: fixed;
+}
+
+.cont
+{
+    padding-top:15px;
+}
+a img
+{
+    width:100px;
+    height:90px;
+}
+.navbar
+{
+    min-height:105px;
+    margin-bottom:0px;
+}
+.navbar-brand{
+    height:110px;
+    padding:0px;
+    margin:0px;
+}
+.side
+{
+    display:block;
+    float:left;
+    width:20%;
+    height:450px;
+    border:1px solid  #E6076C;
+}
+ul{
+    padding:0px;
+    height:450px;
+    width:100%;
+}
+ul li {
+    list-style-type: none;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
+
+li a{
+    color:green;
+    font-size:18px;
+    font-family: 'Franklin Gothic Medium';
+
+}
+
+ul li:hover{
+    background-color: #E6076C;
+}
+.main
+{
+    display:block;
+    float:right;
+
+    width:79.888%;
+    height: 450px;
+    border:1px solid  #E6076C;
+}
